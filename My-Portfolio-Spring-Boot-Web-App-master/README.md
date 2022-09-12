@@ -4,7 +4,7 @@ The portfolio web app using Spring Boot <br><br>
 For Launching the application using Spring Tool Suite: <br>
 
 Step 1: Download the Spring Tool Suite in to your system and extract the application in desired folder. Launch the application <br>
-Step 2: Go to https://github.com/saliljagtap12/My-Portfolio-Spring-Boot-Web-App and download the project. 
+Step 2: Go to 
 Open the project in Spring Tool Suite. <br>
 Step 3: Right click on the application folder and click on Run As --> Spring Boot Web Application<br>
 Step 4: Open any browser of your choice and type http://localhost:8888/home and press enter <br>
