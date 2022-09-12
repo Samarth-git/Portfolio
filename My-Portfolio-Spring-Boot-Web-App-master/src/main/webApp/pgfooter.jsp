@@ -1,0 +1,1 @@
+<footer class="footer_style">&copy; 2022 Personal Portfolio Project</b></footer>
