@@ -10,6 +10,12 @@ import org.springframework.web.bind.annotation.ResponseBody;
 @Controller
 public class HomeController {
 	
+	@RequestMapping("/")
+	public String preHome() {
+//		System.out.println("Hii");
+		return "home.jsp";
+	}
+	
 	@RequestMapping("home")
 	public String home() {
 //		System.out.println("Hii");
