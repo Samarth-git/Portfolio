@@ -1,0 +1,1 @@
+<footer class="footer_style">&copy; 2017 Powered by <b>AGC Networks Ltd.</b></footer>
