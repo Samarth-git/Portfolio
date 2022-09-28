@@ -1,6 +1,5 @@
 package com.portfolio.demo;
-import org.springframework.http.HttpStatus;
-import org.springframework.http.ResponseEntity;
+
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
@@ -10,16 +9,16 @@ import org.springframework.web.bind.annotation.ResponseBody;
 @Controller
 public class HomeController {
 	
+	
 	@RequestMapping("/")
 	public String preHome() {
 //		System.out.println("Hii");
-		return "home.jsp";
+		return "home";
 	}
 	
 	@RequestMapping("home")
 	public String home() {
-//		System.out.println("Hii");
-		return "home.jsp";
+		return "home";
 	}
 	
 	
